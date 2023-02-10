@@ -1,0 +1,14 @@
+{
+  "discord": {
+    "client": {
+      "id": "1068573561108832296",
+      "secret": "QtM6Q2VMayoX-L9ZE051TQrvVc_k15ki"
+    }
+  },
+  "dbd": {
+    "port": 8000,
+    "domain": "http://localhost",
+    "redirectUri": "/discord/callback",
+    "ownerIDs": ["890255508693454929"]
+  }
+}
